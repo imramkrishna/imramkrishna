@@ -62,7 +62,7 @@ Elite software architect and DevOps engineer with a passion for building cutting
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🎯 Featured Projects
-### ⚙️ XCodeGen – AI-Powered Code Generation Tool
+### ⚙️  XCodeGen – AI-Powered Code Generation Tool
 Live at: x-code-gen.vercel.app
 
 A modern AI-driven code generator built with Next.js, TypeScript, and cutting-edge LLMs. XCodeGen helps developers scaffold projects, generate components, or kickstart new ideas with the help of AI models like Qwen3, Mistral, Gemini, and LLaMA.
