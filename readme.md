@@ -1,7 +1,7 @@
 # Hi there, I'm Ram Krishna! 👋
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+TypeScript+Expert;Python+Developer+%7C+Backend+Craftsman;Open+Source+Contributor+%7C+Cloud+Native+Dev;Driven+to+Create+Impact+Through+Code" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+TypeScript+Expert;Database+Developer+%7C+Backend+Craftsman;Open+Source+Contributor+%7C+Cloud+Native+Dev;Driven+to+Create+Impact+Through+Code" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
