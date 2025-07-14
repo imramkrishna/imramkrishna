@@ -13,7 +13,7 @@ I'm a passionate full-stack engineer, cloud-native architect, and AI developer w
 * 🛠️ Obsessed with **CI/CD, Infrastructure as Code, DevSecOps, and DX Optimization**
 * 👯 Open to collaborating on **Game-Changing OSS & AI Integration Projects**
 * 💬 Let's talk **JavaScript, TypeScript, Swift, DevOps, LLMs, iOS, Cloud & More!**
-* 📫 Reach me at: **[itsramky234@gmail.com](mailto:itsramky234@gmail.com)** OR [Portfolio](https://ramkrishnacode.tech)**
+* 📫 Reach me at: **[itsramky234@gmail.com](mailto:itsramky234@gmail.com)** or [Portfolio](https://ramkrishnacode.tech)
 
 ## 🛠️ Tech Stack
 
