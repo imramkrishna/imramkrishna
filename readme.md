@@ -67,49 +67,6 @@ I'm a passionate full-stack engineer, cloud-native architect, and AI developer w
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square\&logo=socket.io\&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
-## 🎯 Featured Projects
-
-### ⚙️ [XCodeGen – AI-Powered Code Generation Tool](https://github.com/imramkrishna/xcodegen)
-
-Live at: [x-code-gen.vercel.app](https://x-code-gen.vercel.app)
-
-An advanced AI-driven code generator that helps developers build, scaffold, and iterate faster using powerful language models.
-
-* **Features:**
-
-  * Prompt-based code generation with LLMs (Qwen3, Mistral, Gemini, LLaMA)
-  * Real-time code rendering & copy-to-clipboard functionality
-  * Model switcher, syntax highlighting, and dark/light theme toggle
-* **Stack:** Next.js, TypeScript, TailwindCSS, Vercel, AI APIs
-* **Use Cases:** Prototyping, scaffolding, learning, pair-programming
-
-### 🛒 [Multi-Vendor E-commerce Platform](https://github.com/imramkrishna/multivendor)
-
-A multi-vendor marketplace with admin panel and vendor management system
-
-* **Features**: Vendor onboarding, analytics dashboard, payment processing, inventory management
-* **Tech Stack**: JavaScript, Node.js, MongoDB
-* **Scale**: Built to handle multiple vendors and products efficiently
-* **Status**: Active Development
-
-### ⏰ [Website Time Tracker](https://github.com/imramkrishna/Website-Time-Tracker)
-
-Chrome extension for tracking website usage and productivity insights
-
-* **Features**: Time tracking, detailed reports, productivity analytics, categorization
-* **Tech Stack**: JavaScript, Chrome Extension APIs
-* **Impact**: Helps users understand and improve their browsing habits
-* **Users**: Growing user base with positive feedback
-
-### 💬 [Chat Connect](https://github.com/imramkrishna/Chat-Connect)
-
-Real-time chat application with modern features
-
-* **Features**: Real-time messaging, user authentication, responsive design, file sharing
-* **Tech Stack**: React, Node.js, WebSocket
-* **Performance**: Fast message delivery with reliable connections
-* **Architecture**: Clean, scalable codebase
-
 ## 📊 GitHub Statistics
 
 <div align="center">
