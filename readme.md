@@ -50,43 +50,6 @@ I'm a passionate full-stack developer specializing in the MERN stack and real-ti
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 🎯 Featured Projects
-
-### 🏆 ChessOnline - Multiplayer Chess Platform
-**Real-time multiplayer chess game with WebSocket technology**
-- ⚡ Instant move synchronization across multiple players
-- 🎮 Complete chess rule validation (castling, en passant, checkmate)
-- 🔄 Concurrent game session management
-- 📱 Responsive design for desktop and mobile
-
-**Tech Stack:** React.js, Node.js, Express.js, WebSocket, MongoDB, TypeScript
-
-### 🏭 WMS - Warehouse Management System
-**Enterprise-level inventory management solution**
-- 📊 Real-time inventory tracking and analytics
-- 👥 Role-based access control system
-- 🔍 Advanced search and filtering capabilities
-- 🌓 Dark/light theme with responsive design
-
-**Tech Stack:** React, TypeScript, Node.js, Express.js, PostgreSQL, JWT
-
-### 🤖 XCodeGen - AI Development Assistant
-**Multi-LLM powered code generation platform**
-- 🧠 Integration with Llama, Gemini, and Mistral models
-- 📁 Custom file system for direct code modifications
-- 💻 Developer and Chat modes for different workflows
-- ⚡ Context-aware code generation and refactoring
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, TypeScript
-
-### 🎮 Games Hub
-**Multi-game platform with HTML Canvas**
-- 🐦 Classic games: Flappy Bird, Snake, Tetris
-- 🎨 Optimized rendering with HTML Canvas
-- 📱 Cross-platform compatibility
-- ⌨️ Intuitive keyboard and touch controls
-
-**Tech Stack:** Next.js, HTML Canvas, Tailwind CSS, TypeScript
 
 ## 📊 GitHub Analytics
 
