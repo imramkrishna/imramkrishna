@@ -68,12 +68,6 @@ I'm a passionate full-stack developer specializing in the MERN stack and real-ti
   <img src="https://github-profile-trophy.vercel.app/?username=imramkrishna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imramkrishna&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ## 💼 Professional Experience
 
 **MERN Stack Intern** @ Blue Fox Pvt. Ltd. (Oct-Dec 2024)
