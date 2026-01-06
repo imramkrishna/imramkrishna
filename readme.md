@@ -49,16 +49,6 @@ I'm a passionate full-stack developer specializing in the MERN stack and real-ti
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imramkrishna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imramkrishna&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imramkrishna&theme=tokyonight" alt="GitHub Streak" />
-</div>
 ## 🎓 Education
 
 **Bachelor in Computer Engineering** (2024-2028)  
