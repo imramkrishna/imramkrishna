@@ -13,7 +13,7 @@ I'm a passionate full-stack developer specializing in the MERN stack and real-ti
 * 🛠️ Focused on **Clean Code, Performance Optimization & User Experience**
 * 👯 Open to collaborating on **Open Source & Innovative Web Projects**
 * 💬 Let's talk **JavaScript, TypeScript, React, Node.js, MongoDB & Real-time Systems**
-* 📫 Reach me at: **[itsramky234@gmail.com](mailto:itsramky234@gmail.com)** | [Portfolio](https://iamramkrishna.com)
+* 📫 Reach me at: **[itsramky234@gmail.com](mailto:itsramky234@gmail.com)** | [Portfolio](https://yadavram.com.np)
 
 ## 🛠️ Tech Stack
 
